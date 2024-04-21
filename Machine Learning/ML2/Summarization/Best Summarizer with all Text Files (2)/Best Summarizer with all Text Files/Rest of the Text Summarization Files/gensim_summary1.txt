@@ -1,0 +1,8 @@
+“Neural Network is a collection (a network) of neurons whose job is to learn a new thing or a new place or a new process or a new concept.” It would be stupid on my part to start with a definition of Neural Network like how we used to teach adults in college.
+What I was actually doing here was teaching her neural network (brain) the features of a lion like exactly how Machine Learning Engineers would train the machine to learn new features.
+After telling her the features of a lion, asked her “Can you draw these for me?” She happily drew almost a similar figure to that of a dog she drew before.
+A dog will have features like face, body, legs, and tail.
+A lion will have features like face, body, legs, tail and a beard.
+The neurons grouped together with features like face, body, legs, tail and a beard forms a lion.
+Once all the features are there, the neurons will send a signal that the picture you are looking at is a lion and not a dog.
+Neural network is a group of neuron friends identifying lions and dogs.
